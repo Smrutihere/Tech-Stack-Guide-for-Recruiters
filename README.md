@@ -1,6 +1,8 @@
 # Tech Stack Guide for Recruiters
 
-A comprehensive recruiter-friendly guide to modern technologies, frameworks, cloud platforms, enterprise applications, AI tools, and cybersecurity concepts commonly found in technical job descriptions and candidate resumes.
+A recruiter-friendly guide to technologies, frameworks, cloud platforms, AI tools, enterprise applications, and technical concepts commonly found in job descriptions and candidate resumes.
+
+---
 
 ## 🎯 Purpose
 
@@ -15,13 +17,9 @@ This repository helps recruiters:
 
 ---
 
-# 📚 Categories
+# 📚 Technology Guides
 
 ## Software Development
-
-Understand programming languages, frameworks, APIs, and modern application development.
-
-### Guides
 
 * [Java](software-development/java.md)
 * [.NET](software-development/dotnet.md)
@@ -38,10 +36,6 @@ Understand programming languages, frameworks, APIs, and modern application devel
 
 ## Cloud Computing
 
-Learn the major cloud platforms and infrastructure technologies.
-
-### Guides
-
 * [AWS](cloud/aws.md)
 * [Azure](cloud/azure.md)
 * [Google Cloud Platform (GCP)](cloud/gcp.md)
@@ -55,47 +49,7 @@ Learn the major cloud platforms and infrastructure technologies.
 
 ---
 
-## DevOps
-
-Understand deployment automation, infrastructure management, and CI/CD practices.
-
-### Topics Covered
-
-* Docker
-* Kubernetes
-* Terraform
-* Jenkins
-* GitHub Actions
-* Ansible
-* Infrastructure as Code (IaC)
-* Continuous Integration & Deployment
-
----
-
-## Data Engineering & Analytics
-
-Learn the technologies powering modern data platforms.
-
-### Guides
-
-* [Data Engineering](data-engineering/data-engineer.md)
-* [Apache Kafka](data-engineering/kafka.md)
-* [Apache Spark](data-engineering/apache-spark.md)
-* [PySpark](data-engineering/pyspark.md)
-* [Apache Airflow](data-engineering/airflow.md)
-* [Snowflake](data-engineering/snowflake.md)
-* [Databricks](data-engineering/databricks.md)
-* [Amazon Redshift](data-engineering/redshift.md)
-* [Power BI](data-and-ai/power-bi.md)
-* [Tableau](data-and-ai/tableau.md)
-
----
-
 ## Artificial Intelligence & Machine Learning
-
-Understand modern AI technologies and machine learning platforms.
-
-### Guides
 
 * [Generative AI](ai-and-ml/generative-ai.md)
 * [Machine Learning](ai-and-ml/machine-learning.md)
@@ -107,14 +61,30 @@ Understand modern AI technologies and machine learning platforms.
 
 ---
 
+## Data Engineering
+
+* [Data Engineering](data-engineering/data-engineer.md)
+* [Apache Kafka](data-engineering/kafka.md)
+* [Apache Spark](data-engineering/apache-spark.md)
+* [PySpark](data-engineering/pyspark.md)
+* [Apache Airflow](data-engineering/airflow.md)
+* [Snowflake](data-engineering/snowflake.md)
+* [Databricks](data-engineering/databricks.md)
+* [Amazon Redshift](data-engineering/redshift.md)
+
+---
+
+## Data Analytics & Business Intelligence
+
+* [Power BI](data-and-ai/power-bi.md)
+* [Tableau](data-and-ai/tableau.md)
+
+---
+
 ## Cybersecurity
 
-Learn security concepts, tools, and common cybersecurity roles.
-
-### Guides
-
-* [Cybersecurity](cybersecurity/security-engineer.md)
-* [IAM](cybersecurity/iam.md)
+* [Cybersecurity Engineer](cybersecurity/security-engineer.md)
+* [Identity & Access Management (IAM)](cybersecurity/iam.md)
 * [SIEM](cybersecurity/siem.md)
 * [Splunk](cybersecurity/splunk.md)
 * [SOC Analyst](cybersecurity/soc-analyst.md)
@@ -122,29 +92,7 @@ Learn security concepts, tools, and common cybersecurity roles.
 
 ---
 
-## QA & Testing
-
-Understand quality assurance and software testing technologies.
-
-### Guides
-
-* [Automation Testing](qa-and-testing/automation-testing.md)
-
-### Topics Covered
-
-* Selenium
-* Cypress
-* Playwright
-* API Testing
-* Test Automation
-
----
-
 ## ERP & CRM
-
-Learn enterprise business applications used by large organizations.
-
-### Guides
 
 * [SAP](erp-and-crm/sap.md)
 * [SAP FICO](erp-and-crm/sap-fico.md)
@@ -161,100 +109,50 @@ Learn enterprise business applications used by large organizations.
 
 ## Database Technologies
 
-### Guides
-
 * [Oracle DBA](database/oracle-dba.md)
 
 ---
 
-# 🔍 Common Recruiter Keywords
-
-## Software Development
-
-Java, Spring Boot, Hibernate, React, Angular, Vue.js, Node.js, Python, REST API, Microservices
-
-## Cloud & DevOps
-
-AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Ansible
-
-## Data Engineering
-
-Kafka, Spark, PySpark, Databricks, Snowflake, Airflow, Redshift, SQL
-
-## Artificial Intelligence
-
-LLM, GenAI, LangChain, LangGraph, RAG, TensorFlow, PyTorch, MLOps
-
-## Cybersecurity
-
-IAM, SIEM, Splunk, SOC, Incident Response, Vulnerability Management
-
-## ERP & CRM
-
-SAP, S/4HANA, FICO, MM, SD, Salesforce, Apex, Lightning, Workday, ServiceNow
-
----
-
-# 🚀 Future Enhancements
+# 🔍 Popular Recruiter Keywords
 
 ### Software Development
 
-* Go (Golang)
-* Rust
-* TypeScript
-* GraphQL
+Java • Spring Boot • Hibernate • React • Angular • Node.js • Python • REST APIs • Microservices
 
-### Cloud & Infrastructure
+### Cloud & DevOps
 
-* OpenShift
-* VMware
-* Cloud Security
+AWS • Azure • GCP • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • Ansible
 
-### Data & Analytics
+### Data Engineering
 
-* Informatica
-* Talend
-* Data Governance
+Kafka • Spark • PySpark • Airflow • Databricks • Snowflake • Redshift • ETL
 
 ### Artificial Intelligence
 
-* Agentic AI
-* Vector Databases
-* RAG Architecture
+LLM • GenAI • LangChain • LangGraph • TensorFlow • PyTorch • MLOps • RAG
 
-### Enterprise Applications
+### Cybersecurity
 
-* Oracle ERP
-* Microsoft Dynamics 365
-* NetSuite
+IAM • SIEM • Splunk • SOC • Incident Response • Vulnerability Management
+
+### ERP & CRM
+
+SAP • S/4HANA • FICO • MM • SD • Salesforce • Apex • Lightning • Workday • ServiceNow
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome.
-
-Feel free to:
-
-* Submit pull requests
-* Suggest improvements
-* Add new technology guides
-* Report issues
+Contributions are welcome. Feel free to submit pull requests, suggest improvements, or add new technology guides.
 
 ---
 
-# ⚠️ Disclaimer
+# ⭐ Support
 
-This repository is intended for educational purposes and serves as a simplified technical reference for recruiters and talent acquisition professionals. Always validate technical requirements against current job descriptions and hiring manager expectations.
+If you find this repository useful:
 
----
-
-## ⭐ Support
-
-If you find this repository useful, please consider:
-
-* Starring the repository
-* Sharing it with fellow recruiters
-* Contributing new technology guides
+* Star the repository
+* Share it with fellow recruiters
+* Contribute additional technology guides
 
 Happy Recruiting! 🚀
